@@ -12,7 +12,7 @@
 	<parent>
 		<groupId>fi.kauppalehti.common</groupId>
 		<artifactId>common-parent</artifactId>
-		<version>1.3-SNAPSHOT</version>
+		<version>1.3</version>
 	</parent>
 
 	<dependencies>
