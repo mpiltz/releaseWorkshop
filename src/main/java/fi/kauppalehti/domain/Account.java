@@ -3,6 +3,7 @@ package fi.kauppalehti.domain;
 import static java.lang.String.format;
 import java.util.concurrent.atomic.AtomicLong;
 //Kommentoidaan tänne jotain tyhmaa
+//lisaa muutoksia
 public class Account {
 
 	private final Long id;	
