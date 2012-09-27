@@ -40,8 +40,8 @@
 		</repository>
 	</repositories>
 	
-<scm><connection>scm:git@github.com:mpiltz/releaseWorkshop.git</connection>
-<developerConnection>scm:git@github.com:mpiltz/releaseWorkshop.git</developerConnection>
+<scm><connection>scm:git:git@github.com:mpiltz/releaseWorkshop.git</connection>
+<developerConnection>scm:git:git@github.com:mpiltz/releaseWorkshop.git</developerConnection>
 <url>https://github.com/mpiltz/releaseWorkshop.git</url>
 </scm>
 </project>
